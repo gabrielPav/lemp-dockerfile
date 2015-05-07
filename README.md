@@ -14,4 +14,4 @@
 
 ### Usage
 
-    docker run -i -t -p 80:80 gpav/lemp:1.0 /bin/bash
+    docker run -i -t -p 80:80 gpav/lemp:1.0
